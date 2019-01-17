@@ -1,4 +1,3 @@
 this is a test file to practice git 
 modifing file
 changing stuff
-echo '#tesst line'
