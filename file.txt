@@ -1,2 +1,4 @@
 this is a test file to practice git 
-midifing file
+modifing file
+changing stuff
+echo '#tesst line'
